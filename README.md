@@ -1,6 +1,5 @@
-[![Hatsune-Mikun's github stats](https://github-readme-stats.vercel.app/api?username=Hatsune-Mikun)](https://github.com/Hatsune-Mikun)
-
 ### Hi there 👋
+[![Hatsune-Mikun's github stats](https://github-readme-stats.vercel.app/api?username=Hatsune-Mikun)](https://github.com/Hatsune-Mikun)
 
 <!--
 **Hatsune-Mikun/Hatsune-Mikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
