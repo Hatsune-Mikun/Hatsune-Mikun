@@ -9,15 +9,14 @@ Welcome to my profile on github, here you can see information about my projects.
 ---
 
 + **Social network:**
-<br>
 <a href="https://discord.gg/Cak7GBJ">
-  <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/discord.svg" />
+  <img align="left" alt="Discord" width="31px" style="padding-right: 5px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/discord.svg" />
 </a>
 <a href="https://t.me/mikudub">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/telegram.svg" />
+  <img align="left" alt="Telegram" width="31px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/telegram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCMs714GwXljPz6foNny51Nw">
-  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/youtube.svg" />
+  <img align="left" alt="YouTube" width="31px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/youtube.svg" />
 </a>
 <a href="mailto:hatsunemikuwaifu01@gmail.com">
   <img align="left" alt="Gmail" width="31px" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/gmail.svg" />
