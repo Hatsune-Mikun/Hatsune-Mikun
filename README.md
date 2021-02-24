@@ -45,7 +45,7 @@ Welcome to my profile on github, here you can see information about my projects.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hatsune-Mikun&show_icons=true&include_all_commits=true&theme=white" alt="Hatsune Mikun's github stats" />
 </a>
 <a href="https://github.com/Hatsune-Mikun">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=white" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hatsune-Mikun&layout=compact&theme=white" />
 </a>
 <br>
 <br>
