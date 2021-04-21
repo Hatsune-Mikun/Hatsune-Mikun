@@ -3,7 +3,7 @@
 Welcome to my profile on github, here you can see information about my projects.
 
 * My main programming language is **JavaScript**
-* I specialize in the development of **BOTs** **REST** and **NPM libraries**
+* I specialize in the development of **BOTs**, **REST**, **REST API** and **NPM libraries**
 * I have many projects as well as bots for **Discord Community**
 
 ---
