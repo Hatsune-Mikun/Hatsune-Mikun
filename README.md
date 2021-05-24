@@ -30,6 +30,7 @@ Welcome to my profile on github, here you can see information about my projects.
 - 😏 [HMfull](https://www.npmjs.com/package/hmfull)
 - 🥒 [HMtai](https://www.npmjs.com/package/hmtai)
 - 📨 [Basic Telegraf](https://github.com/MDraft-js/BasicTelegraf)
+- 📦 [Basic Webpack](https://github.com/MDraft-js/BasicWebpack)
 - 💚 [Basic VUE 3](https://github.com/MDraft-js/BasicVue)
 - 🍒 [Basic NodeJS](https://github.com/MDraft-js/BasicNodeJS)
 - 🔔 [Basic JS](https://github.com/MDraft-js/BasicJS)
