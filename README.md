@@ -1,4 +1,4 @@
-+  **Hi there 👋**
++  **Hi there 👋** ![](https://komarev.com/ghpvc/?Hatsune-Mikun&style=flat-square)
 
 Welcome to my profile on github, here you can see information about my projects.
 
@@ -9,20 +9,10 @@ Welcome to my profile on github, here you can see information about my projects.
 ---
 
 + **Social network:**
-<a href="https://discord.gg/Cak7GBJ">
-  <img align="left" alt="Discord" width="31px" style="padding-right: 5px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/discord.svg" />
-</a>
-<a href="https://t.me/mikudub">
-  <img align="left" alt="Telegram" width="31px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/telegram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCMs714GwXljPz6foNny51Nw">
-  <img align="left" alt="YouTube" width="31px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/youtube.svg" />
-</a>
-<a href="mailto:hatsunemikuwaifu01@gmail.com">
-  <img align="left" alt="Gmail" width="31px" src="https://raw.githubusercontent.com/Hatsune-Mikun/Hatsune-Mikun/master/media/gmail.svg" />
-</a>
-<br>
-
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : hatsunemikuwaifu01@gmail.com
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`@hatsunia`][Twitter]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`! Mikun Hatsune ✔#8088`](https://discord.com/users/496740020988936192)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`@mikudub`][Telegram]
 ---
 
 + **💜 Below you can see my popular projects and repositories:**
