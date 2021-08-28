@@ -1,4 +1,4 @@
-+  **Hi there 👋** ![](https://komarev.com/ghpvc/?Hatsune-Mikun&style=flat-square)
++  **Hi there 👋** ![Profile View](https://komarev.com/ghpvc/?Hatsune-Mikun&style=flat-square)
 
 Welcome to my profile on github, here you can see information about my projects.
 
