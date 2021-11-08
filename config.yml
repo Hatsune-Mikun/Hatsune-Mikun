@@ -1,0 +1,9 @@
+discordid: '496740020988936192' # Здесь должен быть ID пользователя дискорд (обязательно)
+user_firstname: 'Mikun Hatsune' # Имя пользователя или псевдоним (Обязательно)
+userbio: 'JS developer. HM Project, HMtai, HMfull, sHentai' # Описание профиля пользователя (обязательно)
+
+website_url: 'hmproject.tk' # Ссылка на сайт (Не обязательно)
+twitter_login: 'hatsunia' # Логин от твиттер (Не обязательно)
+
+profile_theme: 'light' # Стиль профиля, доступные стили dark, light
+profile_color: '#00ffff' # Цвет рамки профиля
