@@ -45,5 +45,5 @@ Welcome to my profile on github, here you can see information about my projects.
 <br>
 <br>
 <a href="https://discord.gg/Cak7GBJ">
-  <img src="http://invidget.switchblade.xyz/Cak7GBJ" />
+  <img src="http://invidget.switchblade.xyz/vJs36ES" />
 </a>
