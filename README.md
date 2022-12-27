@@ -9,8 +9,7 @@ Welcome to my profile on github, here you can see information about my projects.
 ---
 
 + **Social network:**
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`! Mikun Hatsune ✔#8088`](https://discord.com/users/496740020988936192)
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`@mikudub`](https://t.me/mikudub)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Mikun Hatsune ✔#8088`](https://discord.com/users/496740020988936192)
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`@hatsunia`](https://twitter.com/hatsunia)
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : hatsunemikun@hatsunia.cfd
 ---
